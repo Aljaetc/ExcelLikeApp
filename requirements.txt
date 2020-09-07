@@ -4,11 +4,11 @@ Webpack (import/exports)
   Eslint
   Two modes
     - Dev
-      Dev Server, SourceMaps, Eslint, Not Minified JS & CSS
+        Dev Server, SourceMaps, Eslint, Not Minified JS & CSS
     - Prod
-      Minified Code
-Git
+        Minified Code
 
+Git
   Porduction
     1.0.0
     0-----------
